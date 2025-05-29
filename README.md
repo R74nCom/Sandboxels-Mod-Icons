@@ -10,4 +10,5 @@ Mod creators or other authorized people can upload an icon for a mod here.
 * Upload files into the _icons_ directory.
 
 # Recommendations
-* A simple icon would consist of one or more elements added by the mod, but you're free to be creative.
+* A standard icon is a 32x32-Sandboxels-pixel square that shows some of the elements or other additions of the mod, but feel free to be creative.
+* The _ModIconTemplates.sbxls_ save file is included to help you create these standard icons.
